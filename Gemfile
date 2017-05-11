@@ -90,3 +90,6 @@ gem 'redis-rails'
 
 # installing New Relic
 gem 'newrelic_rpm'
+
+# For Syntax Suggestions
+gem 'rubocop'
